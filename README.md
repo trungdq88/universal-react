@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/trungdq88/universal-react.svg?branch=master)](https://travis-ci.org/trungdq88/universal-react)
+[![Coverage Status](https://coveralls.io/repos/github/trungdq88/universal-react/badge.svg?branch=master)](https://coveralls.io/github/trungdq88/universal-react?branch=master)
 
 # About
 Universal application boilerplate using Express and React (ehh.. no server render stuffs here).
