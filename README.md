@@ -1,12 +1,11 @@
 # About
-Dave is a minion. It also a dashboard displayed on a large screen to supports scrum development team
+Universal application boilerplate using Express and React (ehh.. no server render stuffs here).
 
 # Initial dev setup
-Make sure you have NodeJS v4.1.1 or above. 
+Make sure you have NodeJS v4 or above. 
 
 ## Start server & client
 ```bash
-bower install
 npm install
 npm start 
 ``` 
@@ -17,7 +16,6 @@ npm start
 # Production build
 
 ```bash
-bower install
 npm install
 npm run production 
 ```
