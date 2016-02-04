@@ -1,0 +1,29 @@
+{
+  "extends": "airbnb",
+  "parser": "babel-eslint",
+  "ecmaFeatures": {
+    "spread": true,
+  },
+  "globals": {
+    "describe": true,
+    "it": true,
+    "sinon": true,
+    "__DEVELOPMENT__": true,
+    "__DEVTOOLS__": true
+  },
+  "rules": {
+    "react/prop-types": 0,
+    "react/no-multi-comp": 0,
+    "no-unused-expressions": 0,
+    "no-multiple-empty-lines": [2, {"max": 1}],
+    "no-console": 0,
+    "no-alert": 0,
+    "id-length": 0,
+    "camelcase": 0, /* In a perfect world I'd love to enforce this, but in our
+                       not-so-perfect situation we have APIs that return
+                       non-camelcase names. Better fix the API once we've got
+                       more time. */
+    "new-cap": 0,
+    "indent": [2, 2, {"SwitchCase": 0}]
+  }
+}

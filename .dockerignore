@@ -1,0 +1,13 @@
+.idea
+bower_components
+node_modules
+src
+webpack
+.eslintrc
+.gitignore
+.travis.yml
+bower.json
+dev-server.js
+karma.conf.js
+README.md
+.git
