@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/trungdq88/smart-doge.svg?branch=master)](https://travis-ci.org/trungdq88/smart-doge)
+[![Build Status](https://travis-ci.org/trungdq88/universal-react.svg?branch=master)](https://travis-ci.org/trungdq88/universal-react)
 
 # About
 Universal application boilerplate using Express and React (ehh.. no server render stuffs here).
